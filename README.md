@@ -5,6 +5,11 @@
 ## template
 
 ```
+# ファイル名
+{番号3桁}{名前}.md
+```
+
+```
 ![](https://pbs.twimg.com/profile_images/888337750939672576/HA1Stz8r_400x400.jpg)
 
 ## 名前
