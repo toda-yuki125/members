@@ -18,6 +18,10 @@
 
 php/javascript/ruby/git/jquery/slim/pug/scss/vagrant/aws..
 
+## やりたいこと
+
+コミュニティ内で活用できるアプリケーション作る
+
 ## 一言
 
 みんなでさいきょうえんじにあになろう
