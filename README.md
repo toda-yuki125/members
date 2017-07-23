@@ -2,6 +2,15 @@
 
 自己紹介のためのページ(｡◉ᆺ◉)
 
+## how to create
+
+1. クリック
+![](https://github.com/MoquMoquCOM/members/blob/a800865cadbb3bc0684cac3745d67a56de958508/hoga.PNG)
+
+2. ファイル名を最新の方の[番号に続いた3桁の番号]+[名前アルファベット]で記載
+
+3. 自己紹介文を記入しコミット
+
 ## template
 
 ```
